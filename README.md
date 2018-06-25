@@ -22,4 +22,4 @@ https://space-moere.org/midsummer/
 
 #### フライヤー
 
-<a href="images/midsummerfestival.pdf" rel="noopener" target="_blank"><img src="images/geshisai_flyer_vrtcl-1024x724.jpg" width="1024" height="724" /></a>
+<a href="images/midsummerfestival.pdf" rel="noopener" target="_blank"><img src="images/geshisai_flyer_vrtcl-1024x724.jpg" width="512" height="362" /></a>
