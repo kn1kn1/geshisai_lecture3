@@ -23,10 +23,10 @@ https://space-moere.org/midsummer/
 #### その他
 ##### 当日の様子
 
-<img src="images/img_4535.png" width="302" height="403" />
-<img src="images/img_4536.png" width="302" height="403" />
-<img src="images/img_4539.png" width="302" height="403" />
-<img src="images/img_4547.png" width="302" height="403" />
+<img src="images/IMG_4535.png" width="302" height="403" />
+<img src="images/IMG_4536.png" width="302" height="403" />
+<img src="images/IMG_4539.png" width="302" height="403" />
+<img src="images/IMG_4547.png" width="302" height="403" />
 
 ##### フライヤー
 
