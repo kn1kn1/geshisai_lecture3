@@ -4,8 +4,10 @@ https://siaf.jp/midsummerfestival/
 
 https://space-moere.org/midsummer/
 
-
 ```
+日時：2018年6月23日(土) 17:00–21:00
+会場：モエレ沼公園 ガラスのピラミッド および周辺屋外（札幌市東区モエレ沼公園1-1）
+
 プログラム：
 第1部　アートを知ってみる〜レクチャーシリーズ（会場：ガラスのピラミッド スペース1）
 
@@ -15,3 +17,9 @@ https://space-moere.org/midsummer/
 ```
 
 [スライド資料](slide/slide.pdf)
+
+<a href="slide/slide.pdf"><img src="images/slide_thumbnail.png" width="336" height="210" /></a>
+
+#### フライヤー
+
+<a href="images/midsummerfestival.pdf" rel="noopener" target="_blank"><img src="images/geshisai_flyer_vrtcl-1024x724.jpg" width="1024" height="724" /></a>
