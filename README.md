@@ -16,10 +16,18 @@ https://space-moere.org/midsummer/
 久保田 晃弘
 ```
 
-[スライド資料](slide/slide.pdf)
+#### [スライド資料](slide/slide.pdf)
 
 <a href="slide/slide.pdf"><img src="images/slide_thumbnail.png" width="336" height="210" /></a>
 
-#### フライヤー
+#### その他
+##### 当日の様子
+
+<img src="images/img_4535.png" width="302" height="403" />
+<img src="images/img_4536.png" width="302" height="403" />
+<img src="images/img_4539.png" width="302" height="403" />
+<img src="images/img_4547.png" width="302" height="403" />
+
+##### フライヤー
 
 <a href="images/midsummerfestival.pdf" rel="noopener" target="_blank"><img src="images/geshisai_flyer_vrtcl-1024x724.jpg" width="512" height="362" /></a>
